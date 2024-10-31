@@ -1,0 +1,8 @@
+deepxde
+matplotlib
+numpy
+scipy
+scikit-learn
+torch
+torchvision
+yfinance
