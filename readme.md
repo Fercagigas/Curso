@@ -1,8 +1,3 @@
-
-
-
-# Proyecto de notebooks avanzados: DeepXDE, Epilepsia y LNN
-
 Este repositorio contiene una serie de notebooks de Jupyter enfocados en temas avanzados relacionados con inteligencia artificial, biología computacional y redes neuronales lógicas. A continuación, se presenta una descripción de cada uno de los notebooks, así como las instrucciones necesarias para configurar el entorno y ejecutar los análisis.
 
 ## Contenido
@@ -84,18 +79,3 @@ Para iniciar Jupyter y explorar los notebooks:
 ```bash
 jupyter notebook
 ```
-
-Luego, abre cada uno de los notebooks (`Documentacion_DeepXDE.ipynb`, `EEG_Epileptor.ipynb`, `LNNs.ipynb`) en el navegador. Sigue las instrucciones dentro de cada notebook para ejecutar las celdas y explorar el contenido.
-
-## Notas adicionales
-
-- **Datos**: Si alguno de los notebooks requiere archivos de datos específicos o archivos adicionales, asegúrate de que están en el directorio correcto antes de ejecutar el notebook. 
-- **Contribuciones**: Si deseas mejorar este repositorio, puedes realizar un fork y enviar un pull request con tus contribuciones.
-- **Problemas**: Si encuentras algún error o problema al ejecutar los notebooks, no dudes en abrir un issue en este repositorio para que podamos revisar y solucionar el problema.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
-```
-
-Este código puede ser copiado y pegado directamente en un archivo `README.md` en tu repositorio. Solo necesitas reemplazar `<URL_DEL_REPOSITORIO>` y `<NOMBRE_DEL_REPOSITORIO>` con los valores específicos de tu repositorio.
