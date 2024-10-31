@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Proyecto de notebooks avanzados: DeepXDE, Epilepsia y LNN
 
 Este repositorio contiene una serie de notebooks de Jupyter enfocados en temas avanzados relacionados con inteligencia artificial, biología computacional y redes neuronales lógicas. A continuación, se presenta una descripción de cada uno de los notebooks, así como las instrucciones necesarias para configurar el entorno y ejecutar los análisis.
